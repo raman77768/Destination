@@ -42,6 +42,6 @@ class internshalajobs:
 
     def write_json(self,dictionary):
         with open("internshala.json", "w") as outfile:
-            json.dump(dictionary, outfile)
+            json.dump(dictionary, outfile, indent=4)
 
 internshalajobs()
