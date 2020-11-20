@@ -1,3 +1,1 @@
 # internship_app
-
-ggwp
