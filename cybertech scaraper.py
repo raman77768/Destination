@@ -8,9 +8,9 @@ class InternshipScraper(scrapy.Spider):
     name='internship_scraper'
     
     def start_requests(self):
-        urls = ['https://jobs.cybertecz.in/category/freshers/']
-        for url in urls:
-            yield scrapy.Request(url=url, callback=self.parse1) 
+        #urls = ['https://jobs.cybertecz.in/category/freshers/']
+        for n in range(2,101):
+            yield scrapy.Request(url=('https://jobs.cybertecz.in/category/freshers/page/'+str(n)+'/'), callback=self.parse1) 
        
             
     def parse1(self,response):
@@ -42,6 +42,6 @@ process=CrawlerProcess()
 process.crawl(InternshipScraper)
 process.start()        
 
-fout=open('cybertecz.json','w+')
+fout=open('cybertecz.json','a')
 json.dump(dick,fout,indent=6)
 fout.close()
