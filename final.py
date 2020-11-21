@@ -1,25 +1,22 @@
-from scraping.scrape_internshalajobs import internshalajobs
+import os
 import json
 
-STARTING_COUNT = 10000000
-END_COUNT = 19999999
-CURRENT_COUNT = 10000000
+json_list = []
 
-def get_internshala_data(count):
-    obj = internshalajobs()
-    res = obj.start(count)
+for i in os.listdir("scraping"):
+    for j in os.listdir('scraping/'+i):
+        if ".json" in j:
+            json_list.append("scraping/"+i+"/"+j)
 
-    return res
+print(json_list)
+for i in json_list:
+    f1data = f2data = ""
+    with open('final_data.json') as f1:
+        f1data = f1.read()
+    with open(i) as f2:
+        f2data = f2.read()
 
-def merge_data(dict1, dict2):
-    res = {**dict1, **dict2}
-    return res
-
-def write_json(final_dict):
-    with open("final_data.json", "w") as outfile:
-        json.dump(final_dict, outfile, indent=4)
-
-if __name__ == "__main__":
-    #pass
-    final_data = get_internshala_data(CURRENT_COUNT)
-    write_json(final_data)
+    f1data += "\n"
+    f1data += f2data
+    with open ('final_data.json', 'a') as f3:
+        f3.write(f1data)
