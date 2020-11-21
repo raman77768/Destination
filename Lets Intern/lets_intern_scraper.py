@@ -8,7 +8,7 @@ class LetsInternScraper(scrapy.Spider):
     name = 'lets_intern_scraper'
 
     def start_requests(self):
-        urls = ['https://www.letsintern.com/internships']
+        urls = ['https://www.letsintern.com/internships/pocket-money-internships']
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse1)
 
@@ -31,7 +31,7 @@ class LetsInternScraper(scrapy.Spider):
                     'company': name[i],
                     'profile': profile[i],
                     'link': 'https://www.letsintern.com/'+links[i],
-                    'stipend': stipend[-1],
+                    'stipend': ('Unpaid' if stipend[-1]=="Rs. 0" else stipend[-1]),
                     'img': img[i].rstrip(" no-repeat scroll center;background-position:top right;height:100%;background-size:contain;").lstrip('background:url')[1:-1]
                 }
             }
@@ -40,7 +40,7 @@ class LetsInternScraper(scrapy.Spider):
 
 
 dick, links = {}, []
-id = 20000000
+id = 20000306
 
 
 process = CrawlerProcess()
@@ -48,10 +48,10 @@ process.crawl(LetsInternScraper)
 process.start()
 
 
-print(dick)
+#print(dick)
 print(id)
 
 
-fout = open('letsintern.json', 'w')
+fout = open('letsintern.json', 'a')
 json.dump(dick, fout, indent=6)
 fout.close()
