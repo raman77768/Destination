@@ -3,10 +3,10 @@ import json
 import urllib.request
 from bs4 import BeautifulSoup
 
-
 class internshalajobs:
 
-    def __init__(self):
+    def __init__(self,CURRENT_COUNT):
+
         internshala_link = "https://internshala.com/fresher-jobs/page-"
 
         soups = []
@@ -35,13 +35,15 @@ class internshalajobs:
             for i in range(1,len(s),3):
                 jobs_stipend.append(s[i].text.strip())
 
-            for i in range(len(jobs_company)):
-                jobs[jobs_company[i]] = {"profile":jobs_profile[i],"link":jobs_link[i],"stipend":jobs_stipend[i]}
+        for i in range(len(jobs_company)):
+            CURRENT_COUNT+=1
+            jobs[CURRENT_COUNT] = {"company":jobs_company[i],
+            "profile":jobs_profile[i],"link":jobs_link[i],"stipend":jobs_stipend[i]}
+
 
         self.write_json(jobs)
+
 
     def write_json(self,dictionary):
         with open("internshala.json", "w") as outfile:
             json.dump(dictionary, outfile, indent=4)
-
-internshalajobs()
