@@ -52,3 +52,56 @@ class internshalajobs:
     def write_json(self,dictionary):
         with open("internshala.json", "w") as outfile:
             json.dump(dictionary, outfile, indent=4)
+
+class intershala_internships:
+
+    def start(self,count):
+        internship_link = "https://internshala.com/internships/page-"
+
+        profile = []
+        company = []
+        link = []
+        img = []
+        stipend = []
+
+        internships = {}
+
+        soups = []
+        for i in range(1,207):
+            r=requests.get(internship_link+str(i))
+            soups.append(BeautifulSoup(r.content,'html5lib'))
+
+        for soup in soups:
+            for i in soup.find_all(class_="heading_4_5 profile"):
+                profile.append(i.text.strip())
+
+            for i in soup.find_all(class_="heading_6 company_name"):
+                company.append(i.text.strip())
+
+            for i in soup.find_all(class_="stipend"):
+                stipend.append(i.text.strip())
+
+            for i in soup.find_all(class_="view_detail_button"):
+                link.append("https://internshala.com"+i['href'].strip())
+
+            for i in soup.find_all(class_="internship_logo"):
+                try:
+                    img.append("https://internshala.com"+i.find('img')['src'].strip())
+                except:img.append("")
+
+
+
+        if len(img)<len(company):
+            for _ in range(abs(len(img)-len(company))):img.append("")
+
+        for i in range(len(company)):
+            count+=1
+            internships[count]={"company":company[i],"profile":profile[i],"link":link[i],"stipend":stipend[i],"img":img[i]}
+
+        #self.write_json(internships)
+
+        return internships
+
+    def write_json(self,dicti):
+        with open("internships.json", "w") as outfile:
+            json.dump(dicti, outfile, indent=4)
