@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 class internshalajobs:
 
-    def __init__(self,CURRENT_COUNT):
+    def start(self,CURRENT_COUNT):
 
         internshala_link = "https://internshala.com/fresher-jobs/page-"
 
@@ -38,7 +38,7 @@ class internshalajobs:
             for i in soup.find_all(class_="internship_logo"):
                 try:
                     jobs_images.append("https://internshala.com"+i.find('img')['src'].strip())
-                except:jobs_images.append("https://drive.google.com/file/d/1nkVjVqNr5qP4f0NqMGgt_lBgrfdPPOyQ/view?usp=sharing")
+                except:jobs_images.append("")
 
         for i in range(len(jobs_company)):
             CURRENT_COUNT+=1
@@ -46,9 +46,8 @@ class internshalajobs:
             "profile":jobs_profile[i],"link":jobs_link[i],"stipend":jobs_stipend[i],
             "img":jobs_images[i]}
 
-
-        self.write_json(jobs)
-
+        #self.write_json(jobs)
+        return jobs
 
     def write_json(self,dictionary):
         with open("internshala.json", "w") as outfile:
