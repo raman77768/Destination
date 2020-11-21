@@ -1,1 +1,6 @@
-# internship_app
+# DESTINATION
+
+Range
+
+Nishant:20000000 - 29999999
+Raman:10000000 - 19999999
