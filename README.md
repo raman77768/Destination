@@ -1,4 +1,8 @@
-# internship_app
+# DESTINATION
 
 ggwp
 
+Range
+
+Nishant:20000000 - 29999999
+Raman:10000000 - 19999999
