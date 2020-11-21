@@ -18,6 +18,7 @@ class internshalajobs:
         jobs_company = []
         jobs_link = []
         jobs_stipend = []
+        jobs_images = []
 
         jobs = {}
 
@@ -34,11 +35,16 @@ class internshalajobs:
             s = soup.find_all(class_="item_body")
             for i in range(1,len(s),3):
                 jobs_stipend.append(s[i].text.strip())
+            for i in soup.find_all(class_="internship_logo"):
+                try:
+                    jobs_images.append("https://internshala.com"+i.find('img')['src'].strip())
+                except:jobs_images.append("https://drive.google.com/file/d/1nkVjVqNr5qP4f0NqMGgt_lBgrfdPPOyQ/view?usp=sharing")
 
         for i in range(len(jobs_company)):
             CURRENT_COUNT+=1
             jobs[CURRENT_COUNT] = {"company":jobs_company[i],
-            "profile":jobs_profile[i],"link":jobs_link[i],"stipend":jobs_stipend[i]}
+            "profile":jobs_profile[i],"link":jobs_link[i],"stipend":jobs_stipend[i],
+            "img":jobs_images[i]}
 
 
         self.write_json(jobs)
