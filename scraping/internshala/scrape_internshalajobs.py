@@ -90,18 +90,18 @@ class intershala_internships:
                 except:img.append("")
 
 
-
-        if len(img)<len(company):
-            for _ in range(abs(len(img)-len(company))):img.append("")
-
-        for i in range(len(company)):
+        total_length = min([len(i) for i in [company,link,img,profile,stipend]])
+        for i in range(total_length):
             count+=1
             internships[count]={"company":company[i],"profile":profile[i],"link":link[i],"stipend":stipend[i],"img":img[i]}
 
-        #self.write_json(internships)
+        self.write_json(internships)
 
         return internships
 
     def write_json(self,dicti):
         with open("internships.json", "w") as outfile:
             json.dump(dicti, outfile, indent=4)
+
+obj=intershala_internships()
+obj.start(10000520)
