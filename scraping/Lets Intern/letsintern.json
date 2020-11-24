@@ -1,2144 +1,667 @@
 {
-      "20000000": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
       "20000001": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000002": {
-            "company": "Customer Relationship Manager",
-            "profile": "Top Mentor",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 10000-20000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/167557714.jpg"
-      },
-      "20000003": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000004": {
-            "company": "Business Development Manager Intern",
-            "profile": "Top Mentor",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/167557714.jpg"
-      },
-      "20000005": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
-      },
-      "20000006": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000007": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000008": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000009": {
-            "company": "Client Acquisition Executive",
-            "profile": "Aspiring Minds",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 12500-12500",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000010": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000011": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000012": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000013": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000014": {
-            "company": "Content Development",
-            "profile": "SponsorEazy",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/152838762.jpeg"
-      },
-      "20000015": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000016": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000017": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000018": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000019": {
-            "company": "Content Development",
-            "profile": "SponsorEazy",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/152838762.jpeg"
-      },
-      "20000020": {
-            "company": "Customer Relationship Manager",
-            "profile": "Top Mentor",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 10000-20000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/167557714.jpg"
-      },
-      "20000021": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
-      },
-      "20000022": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000023": {
-            "company": "Business Development Manager Intern",
-            "profile": "Top Mentor",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/167557714.jpg"
-      },
-      "20000024": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000025": {
-            "company": "Client Acquisition Executive",
-            "profile": "Aspiring Minds",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 12500-12500",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000026": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000027": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000028": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000029": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000030": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000031": {
-            "company": "Professional Graphic Designer",
-            "profile": "Photo retouch house",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 1000-20000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/7059363.jpg"
-      },
-      "20000032": {
-            "company": "Social Media Marketing& sales",
-            "profile": "puniya consultants",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 1000-3000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/748364623.jpg"
-      },
-      "20000033": {
-            "company": "Solutions for Engineering Questions (WFH)",
-            "profile": "Upcoming Start Up",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 1000-25000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000034": {
-            "company": "Intern- Marketing",
-            "profile": "Manya Education Pvt. Ltd.",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 5000-6000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000035": {
-            "company": "Client Acquisition Executive",
-            "profile": "Aspiring Minds",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 12500-12500",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000036": {
-            "company": "Business Development (Sales) Internship - USA",
-            "profile": "APR Transport",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/27650193.jpg"
-      },
-      "20000037": {
-            "company": "Digital marketing",
-            "profile": "Amicone",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 3000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/82232471.png"
-      },
-      "20000038": {
-            "company": "Junior PHP Developer",
-            "profile": "2COMS Consulting pvt ltd",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/485572826.png"
-      },
-      "20000039": {
-            "company": "SEO Executive",
-            "profile": "Naresh Safe Factory",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 3000-4500",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/668377051.png"
-      },
-      "20000040": {
-            "company": "Copywriter",
-            "profile": "Authority Movers",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 4000-4996",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/68981116.png"
-      },
-      "20000041": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000042": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000043": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000044": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000045": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000046": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
-      },
-      "20000047": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000048": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000049": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000050": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000051": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000052": {
-            "company": "Content Development",
-            "profile": "SponsorEazy",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/152838762.jpeg"
-      },
-      "20000053": {
-            "company": "Customer Relationship Manager",
-            "profile": "Top Mentor",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 10000-20000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/167557714.jpg"
-      },
-      "20000054": {
-            "company": "Business Development (Sales) Internship - USA",
-            "profile": "APR Transport",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/27650193.jpg"
-      },
-      "20000055": {
-            "company": "Design Intern",
-            "profile": "Skillsphere Education Pvt. Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 6500-8500",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/476874799.jpg"
-      },
-      "20000056": {
-            "company": "Java Interns",
-            "profile": "Data Hector Solutions",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 2000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/608496918.jpg"
-      },
-      "20000057": {
-            "company": "Online internship",
-            "profile": "Learnovate",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/567622101.jpeg"
-      },
-      "20000058": {
-            "company": "Android Mobile Device Management",
-            "profile": "SF",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 9993-12000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/546979606.png"
-      },
-      "20000059": {
-            "company": "Marketing Executive",
-            "profile": "Unbound AI and Analytics Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 10000-20000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/178386924.png"
-      },
-      "20000060": {
-            "company": "Social Media Marketing& sales",
-            "profile": "puniya consultants",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 1000-3000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/748364623.jpg"
-      },
-      "20000061": {
-            "company": "Business Development Manager Intern",
-            "profile": "Top Mentor",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/167557714.jpg"
-      },
-      "20000062": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000063": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000064": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
-      },
-      "20000065": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000066": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000067": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000068": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000069": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000070": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000071": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000072": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000073": {
-            "company": "Digital Marketing",
-            "profile": "Digi Streaks",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 1500-2000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000074": {
-            "company": "Investment Analyst",
-            "profile": "Altius Investech Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 10000-20000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000075": {
-            "company": "Business Development (Sales) Internship - USA",
-            "profile": "APR Transport",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/27650193.jpg"
-      },
-      "20000076": {
-            "company": "Internship",
-            "profile": "Masaya Daily",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 5000-10000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/116100119.jpg"
-      },
-      "20000077": {
-            "company": "Content  writer",
-            "profile": "Trucking On Road",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 5000-6000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/700635734.png"
-      },
-      "20000078": {
-            "company": "Influencer Marketing Specialist",
-            "profile": "Soulflower",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 12000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/19945_20130502122606.jpg"
-      },
-      "20000079": {
-            "company": "Junior PHP Developer",
-            "profile": "2COMS Consulting pvt ltd",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/485572826.png"
-      },
-      "20000080": {
-            "company": "Solutions for Engineering Questions (WFH)",
-            "profile": "Upcoming Start Up",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 1000-25000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000081": {
-            "company": "Business Development Exec / Asst. Sales & Purchase",
-            "profile": "VIVIR EXPORTS PRIVATE LIMITED",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 2000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/28524241.png"
-      },
-      "20000082": {
-            "company": "Content Development",
-            "profile": "SponsorEazy",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/152838762.jpeg"
-      },
-      "20000083": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
-      },
-      "20000084": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000085": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000086": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000087": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000088": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000089": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000090": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000091": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000092": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000093": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000094": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000095": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000096": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000097": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000098": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000099": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
-      },
-      "20000100": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000101": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000102": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000103": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000104": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
-      },
-      "20000105": {
-            "company": "CA ARTICESHIP",
-            "profile": "Ledger 360",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Rs. 4000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/173704847.jpg"
-      },
-      "20000106": {
-            "company": "AWS Internship",
-            "profile": "FITA",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Rs. 5000-10000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/495573156.png"
-      },
-      "20000107": {
-            "company": "Site engineer",
-            "profile": "Hireandbuild",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/651694501.png"
-      },
-      "20000108": {
-            "company": "Business Development Intern",
-            "profile": "My Happy Celebrations",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Expenses Covered",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/751257496.png"
-      },
-      "20000109": {
-            "company": "Content Writing",
-            "profile": "Biorev Studios",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Rs. 5000-7000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000110": {
-            "company": "Digital Marketing Internship",
-            "profile": "Saijith Digital Marketing",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Rs. 1000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/818245398.JPG"
-      },
-      "20000111": {
-            "company": "Paid Content Writer",
-            "profile": "Dropzone",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Expenses Covered",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000112": {
-            "company": "Junior PHP Developer",
-            "profile": "2COMS Consulting pvt ltd",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/485572826.png"
-      },
-      "20000113": {
-            "company": "Solutions for Engineering Questions (WFH)",
-            "profile": "Upcoming Start Up",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Rs. 1000-25000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000114": {
-            "company": "Content Development",
-            "profile": "SponsorEazy",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/152838762.jpeg"
-      },
-      "20000115": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000116": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000117": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000118": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000119": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000120": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000121": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000122": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000123": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000124": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000125": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000126": {
-            "company": "Solutions for Engineering Questions (WFH)",
-            "profile": "Upcoming Start Up",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-25000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000127": {
-            "company": "Investment Analyst",
-            "profile": "Altius Investech Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 10000-20000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000128": {
-            "company": "Business Development (Sales)",
-            "profile": "Be After WAy",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/384122834.jpg"
-      },
-      "20000129": {
-            "company": "Junior PHP Developer",
-            "profile": "2COMS Consulting pvt ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/485572826.png"
-      },
-      "20000130": {
-            "company": "Business Development (Sales) Internship - USA",
-            "profile": "APR Transport",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/27650193.jpg"
-      },
-      "20000131": {
-            "company": "Motion Graphics + Graphic Designer",
-            "profile": "Funlabtech pvt ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 18000-22000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81247133.png"
-      },
-      "20000132": {
-            "company": "Sales and Marketing",
-            "profile": "Ostello India Private Limited",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-1500",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/888400735.jpeg"
-      },
-      "20000133": {
-            "company": "Paid Content Writer",
-            "profile": "Dropzone",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Expenses Covered",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000134": {
-            "company": "Content Writing",
-            "profile": "Biorev Studios",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 5000-7000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000135": {
-            "company": "Content Development",
-            "profile": "SponsorEazy",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/152838762.jpeg"
-      },
-      "20000136": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000137": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000138": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000139": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000140": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000141": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000142": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
-      },
-      "20000143": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000144": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000145": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000146": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000147": {
-            "company": "SEO intern",
-            "profile": "vyrazu labs",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Expenses Covered",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/524489847.jpg"
-      },
-      "20000148": {
-            "company": "Investment Analyst",
-            "profile": "Altius Investech Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 10000-20000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000149": {
-            "company": "Content Writing",
-            "profile": "Biorev Studios",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 5000-7000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000150": {
-            "company": "AXIS BANK [Freshers] // SEGMENT OF BACK OFFICE",
-            "profile": "9433996924",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Expenses Covered",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000151": {
-            "company": "Junior PHP Developer",
-            "profile": "2COMS Consulting pvt ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/485572826.png"
-      },
-      "20000152": {
-            "company": "Hotel job, Hotel Mangement job, Kolkata",
-            "profile": "GPTDC Institute of Hotel Management",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 10000-14000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000153": {
-            "company": "Solutions for Engineering Questions (WFH)",
-            "profile": "Upcoming Start Up",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-25000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000154": {
-            "company": "Social media",
-            "profile": "Mr Moustaches cakes",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
+            "company": "Mr Moustaches cakes",
+            "profile": "Social media",
+            "link": "https://www.letsintern.com/internship/Social-Media-Specialist-internships/Mr-Moustaches-cakes/Social-media/123638",
             "stipend": "Unpaid",
             "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/153456592.JPG"
       },
-      "20000155": {
-            "company": "Business Development (Sales) Internship - USA",
-            "profile": "APR Transport",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/27650193.jpg"
+      "20000002": {
+            "company": "Funlabtech pvt ltd",
+            "profile": "HR Executive",
+            "link": "https://www.letsintern.com/internship/Human-Resources-Manager-internships/Funlabtech-pvt-ltd/HR-Executive/123598",
+            "stipend": "Rs. 15000-20000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/158398109.png"
       },
-      "20000156": {
-            "company": "Content Development",
-            "profile": "SponsorEazy",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/152838762.jpeg"
-      },
-      "20000157": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000158": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000159": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000160": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
-      },
-      "20000161": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000162": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000163": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000164": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000165": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000166": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000167": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000168": {
-            "company": "Client Acquisition Executive",
-            "profile": "Aspiring Minds",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
+      "20000003": {
+            "company": "Xpress Minds Edutainment Private limited",
+            "profile": "Business Development (Sales)",
+            "link": "https://www.letsintern.com/internship/Sales-Consultant-internships/Xpress-Minds-Edutainment-Private-limited/Business-Development-Sales-/123410",
             "stipend": "Rs. 12500-12500",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/557798193.jpg"
       },
-      "20000169": {
-            "company": "Digital Marketing Intern",
-            "profile": "Variety Innovation Venture Pvt. Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 5000-10000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/220363789.png"
+      "20000004": {
+            "company": "MD Capital",
+            "profile": "Digital Marketing internship at MD Capital",
+            "link": "https://www.letsintern.com/internship/Digital-Marketing-Professional-internships/MD-Capital/Digital-Marketing-internship-at-MD-Capital/123363",
+            "stipend": "Rs. 1000-100000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/612687937.jpg"
       },
-      "20000170": {
-            "company": "Business Development Executive",
-            "profile": "Uolo EdTech Private Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 10000-10000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/899587274.jpg"
-      },
-      "20000171": {
-            "company": "Paid Content Writer",
-            "profile": "Dropzone",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
+      "20000005": {
+            "company": "rankmywriter.com",
+            "profile": "Best essay writer",
+            "link": "https://www.letsintern.com/internship/Education-Director-internships/rankmywriter-com/Best-essay-writer/123936",
             "stipend": "Expenses Covered",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/305116255.jpg"
       },
-      "20000172": {
-            "company": "SEO Internship Fulltime With OSB The Venetian",
-            "profile": "OSB The Venetian",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 5000-12000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/196235858.png"
-      },
-      "20000173": {
-            "company": "Sales and Marketing",
-            "profile": "Ostello India Private Limited",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-1500",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/888400735.jpeg"
-      },
-      "20000174": {
-            "company": "Full Stack Development Intern",
-            "profile": "Variety Innovation Venture Pvt. Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 5000-10000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/220363789.png"
-      },
-      "20000175": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
-      },
-      "20000176": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000177": {
-            "company": "Business Development Intern",
-            "profile": "ZOYLEE WEB SERVICES PVT. LTD.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 4000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/883173338.png"
-      },
-      "20000178": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000179": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000180": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000181": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000182": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000183": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000184": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000185": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000186": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000187": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000188": {
-            "company": "Technical Sales Executive",
-            "profile": "Kymik Industries",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/701870713.png"
-      },
-      "20000189": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
-      },
-      "20000190": {
-            "company": "Solutions for Engineering Questions (WFH)",
-            "profile": "Upcoming Start Up",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-25000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000191": {
-            "company": "Sales Intern",
-            "profile": "The Articulate Writer",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-20000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/285395480.jpg"
-      },
-      "20000192": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000193": {
-            "company": "Design Inter",
-            "profile": "Drona Automations",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/604751620.jpg"
-      },
-      "20000194": {
-            "company": "FPGA SOC - Design Engineer",
-            "profile": "SQM Technologies",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 4000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/719279472.jpg"
-      },
-      "20000195": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000196": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000197": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000198": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000199": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000200": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000201": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000202": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000203": {
-            "company": "Professional Graphic Designer",
-            "profile": "Photo retouch house",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-20000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/7059363.jpg"
-      },
-      "20000204": {
-            "company": "Graphic Designer",
-            "profile": "FanPlay Technologies Pvt. Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
+      "20000006": {
+            "company": "Voodlee",
+            "profile": "Web Marketing",
+            "link": "https://www.letsintern.com/internship/Marketing-Professional-internships/Voodlee/Web-Marketing/123762",
             "stipend": "Rs. 3000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/776896280.png"
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/43950407.png"
       },
-      "20000205": {
-            "company": "Motion Graphics + Graphic Designer",
-            "profile": "Funlabtech pvt ltd",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 18000-22000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81247133.png"
+      "20000007": {
+            "company": "Webvio Technologies Private Limited",
+            "profile": "Business Development (Sales) Internship",
+            "link": "https://www.letsintern.com/internship/Business-Development-Executive-internships/Webvio-Technologies-Private-Limited/Business-Development-Sales-Internship/123754",
+            "stipend": "Rs. 9000-10000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/639550857.png"
       },
-      "20000206": {
-            "company": "Canva Expert",
-            "profile": "TEP Publications",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2000-4000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257859461.PNG"
+      "20000008": {
+            "company": "onlinedisruptor.com",
+            "profile": "Android Application Developer",
+            "link": "https://www.letsintern.com/internship/UI-UX-Developer-internships/onlinedisruptor-com/Android-Application-Developer/123892",
+            "stipend": "Rs. 1000-2000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/497457232.jpeg"
       },
-      "20000207": {
-            "company": "graphic designer",
-            "profile": "troubleclear consumer solutions pvt ltd",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 5000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/366978435.jpg"
+      "20000009": {
+            "company": "WayOurCareers",
+            "profile": "WayOutCareers Sales and Management",
+            "link": "https://www.letsintern.com/internship/Sales-Manager-internships/WayOurCareers/WayOutCareers-Sales-and-Management/123619",
+            "stipend": "Rs. 2000-10000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/742711277.png"
       },
-      "20000208": {
-            "company": "video editor",
-            "profile": "ajk media pvt ltd",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-3000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/298871421.jpg"
+      "20000010": {
+            "company": "Jaksb Systems",
+            "profile": "Remote Software Developer Fresher",
+            "link": "https://www.letsintern.com/internship/Software-Developer-internships/Jaksb-Systems/Remote-Software-Developer-Fresher/123545",
+            "stipend": "Unpaid",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/953302051.png"
       },
-      "20000209": {
-            "company": "Design Intern",
-            "profile": "Skillsphere Education Pvt. Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
+      "20000011": {
+            "company": "AK Groups",
+            "profile": "iOS developer",
+            "link": "https://www.letsintern.com/internship/Mobile-App-Developer-internships/AK-Groups/iOS-developer/121968",
+            "stipend": "Unpaid",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/398365708.png"
+      },
+      "20000012": {
+            "company": "AK Groups",
+            "profile": "Android Developer",
+            "link": "https://www.letsintern.com/internship/Mobile-App-Developer-internships/AK-Groups/Android-Developer/121967",
+            "stipend": "Unpaid",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/398365708.png"
+      },
+      "20000013": {
+            "company": "Data Hector Solutions",
+            "profile": "Java Interns",
+            "link": "https://www.letsintern.com/internship/Software-Developer-internships/Data-Hector-Solutions/Java-Interns/123383",
+            "stipend": "Rs. 2000-5000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/608496918.jpg"
+      },
+      "20000014": {
+            "company": "Paymoney Recharge",
+            "profile": "Multi Recharge Software",
+            "link": "https://www.letsintern.com/internship/Web-Developer-C-Net-internships/Paymoney-Recharge/Multi-Recharge-Software/119433",
+            "stipend": "Rs. 5000-25000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/606231014.png"
+      },
+      "20000015": {
+            "company": "Skillsphere Education Pvt. Ltd.",
+            "profile": "Design Intern",
+            "link": "https://www.letsintern.com/internship/Graphic-Designer-internships/Skillsphere-Education-Pvt-Ltd-/Design-Intern/123533",
             "stipend": "Rs. 6500-8500",
             "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/476874799.jpg"
       },
-      "20000210": {
-            "company": "Graphic Designer",
-            "profile": "Volopay",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 15000-20000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/909232682.PNG"
-      },
-      "20000211": {
-            "company": "Accessory Design",
-            "profile": "Etail Marketing Pvt. Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 5000-10000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/525155791-243416.jpg"
-      },
-      "20000212": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000213": {
-            "company": "Graphic Design Intern",
-            "profile": "TEP Publications",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2000-4000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257859461.PNG"
-      },
-      "20000214": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
-      },
-      "20000215": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000216": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000217": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000218": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000219": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000220": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000221": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000222": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000223": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000224": {
-            "company": "Affiliate internship program",
-            "profile": "The customisation point",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-20000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000225": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000226": {
-            "company": "We need Interns Who Can Spend thirty minutes a day",
-            "profile": "trickycoders",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Expenses Covered",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/296814364.jpg"
-      },
-      "20000227": {
-            "company": "Digital Marketing Internship",
-            "profile": "Taica Software Solutions",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/397101519.PNG"
-      },
-      "20000228": {
-            "company": "Digital Marketing Training in Chandigarh",
-            "profile": "Training in Chandigarh",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
+      "20000016": {
+            "company": "Idea Labs",
+            "profile": "Full Stack developers (Angular, React, Node, Java)",
+            "link": "https://www.letsintern.com/internship/Software-Developer-internships/Idea-Labs/Full-Stack-developers-Angular-React-Node-Java-/120331",
             "stipend": "Rs. 1000-10000",
             "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
       },
-      "20000229": {
-            "company": "Digital Marketing & Social Media Marketing Intern",
-            "profile": "GoSpace",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2500-2500",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/225870624.jpg"
-      },
-      "20000230": {
-            "company": "Digital marketing",
-            "profile": "Amicone",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 3000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/82232471.png"
-      },
-      "20000231": {
-            "company": "Android Mobile Device Management",
-            "profile": "SF",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
+      "20000017": {
+            "company": "SF",
+            "profile": "Android Mobile Device Management",
+            "link": "https://www.letsintern.com/internship/Marketing-Professional-internships/SF/Android-Mobile-Device-Management/122487",
             "stipend": "Rs. 9993-12000",
             "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/546979606.png"
       },
-      "20000232": {
-            "company": "Digital Marketing",
-            "profile": "Digi Streaks",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1500-2000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      "20000018": {
+            "company": "Bhim Digital Inc",
+            "profile": "Business Research",
+            "link": "https://www.letsintern.com/internship/Business-Analyst-internships/Bhim-Digital-Inc/Business-Research/123755",
+            "stipend": "Rs. 10000-25000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/769524112.png"
       },
-      "20000233": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000234": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000235": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000236": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000237": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000238": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
-      },
-      "20000239": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000240": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000241": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000242": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000243": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000244": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000245": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000246": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000247": {
-            "company": "Business Development Manager Intern",
-            "profile": "Top Mentor",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/167557714.jpg"
-      },
-      "20000248": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000249": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000250": {
-            "company": "Customer Relationship Manager",
-            "profile": "Top Mentor",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
+      "20000019": {
+            "company": "Top Mentor",
+            "profile": "Customer Relationship Manager",
+            "link": "https://www.letsintern.com/internship/Sales-Manager-internships/Top-Mentor/Customer-Relationship-Manager/119336",
             "stipend": "Rs. 10000-20000",
             "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/167557714.jpg"
       },
-      "20000251": {
-            "company": "Content Development",
-            "profile": "SponsorEazy",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/152838762.jpeg"
-      },
-      "20000252": {
-            "company": "Client Acquisition Executive",
-            "profile": "Aspiring Minds",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
-            "stipend": "Rs. 12500-12500",
+      "20000020": {
+            "company": "Healtharkinsights",
+            "profile": "Business Analyst",
+            "link": "https://www.letsintern.com/internship/Analyst-internships/Healtharkinsights/Business-Analyst/123841",
+            "stipend": "Rs. 5000-7000",
             "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
       },
-      "20000253": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000254": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
-      },
-      "20000255": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000256": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000257": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000258": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000259": {
-            "company": "AWS Internship",
-            "profile": "FITA",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Rs. 5000-10000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/495573156.png"
-      },
-      "20000260": {
-            "company": "Internship",
-            "profile": "Masaya Daily",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Rs. 5000-10000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/116100119.jpg"
-      },
-      "20000261": {
-            "company": "Business Development Manager Intern",
-            "profile": "Top Mentor",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
+      "20000021": {
+            "company": "Top Mentor",
+            "profile": "Business Development Manager Intern",
+            "link": "https://www.letsintern.com/internship/Business-Development-Manager-internships/Top-Mentor/Business-Development-Manager-Intern/119333",
             "stipend": "Rs. 10000-15000",
             "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/167557714.jpg"
       },
-      "20000262": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
+      "20000022": {
+            "company": "BrandKro",
+            "profile": "Business Development Intern",
+            "link": "https://www.letsintern.com/internship/Business-Consultant-internships/BrandKro/Business-Development-Intern/123673",
+            "stipend": "Rs. 5000-14993",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/944632774.jpg"
       },
-      "20000263": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
+      "20000023": {
+            "company": "Bharat Karigar",
+            "profile": "Business Analyst",
+            "link": "https://www.letsintern.com/internship/Business-Analyst-internships/Bharat-Karigar/Business-Analyst/123535",
+            "stipend": "Rs. 1000-2000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/307662972.jpg"
       },
-      "20000264": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000265": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000266": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000267": {
-            "company": "Client Acquisition Executive",
-            "profile": "Aspiring Minds",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Rs. 12500-12500",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000268": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
-      },
-      "20000269": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000270": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
-      },
-      "20000271": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
-      },
-      "20000272": {
-            "company": "Content Development",
-            "profile": "SponsorEazy",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/152838762.jpeg"
-      },
-      "20000273": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000274": {
-            "company": "Copywriter",
-            "profile": "Authority Movers",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 4000-4996",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/68981116.png"
-      },
-      "20000275": {
-            "company": "Social Media Marketing",
-            "profile": "Paris Panini",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 3000-3000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000276": {
-            "company": "Internship at Essay King Company",
-            "profile": "Essay King",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 10000-15000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000277": {
-            "company": "Associate Freelance Trainers",
-            "profile": "SkillSphere Education",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1300-7500",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/875191399.jpg"
-      },
-      "20000278": {
-            "company": "Content  writer",
-            "profile": "Trucking On Road",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 5000-6000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/700635734.png"
-      },
-      "20000279": {
-            "company": "Digital Marketing Training in Chandigarh",
-            "profile": "Training in Chandigarh",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-10000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000280": {
-            "company": "Solutions for Engineering Questions (WFH)",
-            "profile": "Upcoming Start Up",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-25000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
-      },
-      "20000281": {
-            "company": "Content writer",
-            "profile": "online pills store",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
+      "20000024": {
+            "company": "Bandhan 9433996924 or 7044658694",
+            "profile": "Freshers Employment//Segment of Back Office// Axis",
+            "link": "https://www.letsintern.com/internship/Accountant-internships/Bandhan-9433996924-or-7044658694/Freshers-Employment-Segment-of-Back-Office-Axis/123835",
             "stipend": "Expenses Covered",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/148835402.png"
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
       },
-      "20000282": {
-            "company": "Prestige Finsbury Park Launch Date",
-            "profile": "Prestige Finsbury Park",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/61810654.jpg"
+      "20000025": {
+            "company": "AXIS 9433996924 or 7044658694",
+            "profile": "BANDHAN BANK RECRUITMENT(FRESHER)/BACK OFFICE",
+            "link": "https://www.letsintern.com/internship/Accountant-internships/AXIS-9433996924-or-7044658694/BANDHAN-BANK-RECRUITMENT-FRESHER-BACK-OFFICE/123824",
+            "stipend": "Expenses Covered",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
       },
-      "20000283": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
+      "20000026": {
+            "company": "A.X.I.S 9433996924 or 7044658694",
+            "profile": "Back Office Executive ( Freshers ) -- AXIS Bank",
+            "link": "https://www.letsintern.com/internship/Accountant-internships/A-X-I-S-9433996924-or-7044658694/Back-Office-Executive-Freshers-AXIS-Bank/123859",
+            "stipend": "Expenses Covered",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
       },
-      "20000284": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
+      "20000027": {
+            "company": "Bandhan 9433996924 or 7044658694",
+            "profile": "BANK RECRUITMENT(FRESHER)/BACK OFFICE // AXIS BANK",
+            "link": "https://www.letsintern.com/internship/Accountant-internships/Bandhan-9433996924-or-7044658694/BANK-RECRUITMENT-FRESHER-BACK-OFFICE-AXIS-BANK/123833",
+            "stipend": "Expenses Covered",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
       },
-      "20000285": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
+      "20000028": {
+            "company": "EveryFin",
+            "profile": "Young-Fin Ambassador",
+            "link": "https://www.letsintern.com/internship/Financial-Analyst-internships/EveryFin/Young-Fin-Ambassador/123770",
+            "stipend": "Rs. 1000-3000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/896417947.png"
       },
-      "20000286": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
+      "20000029": {
+            "company": "7449746203 or 7044658694",
+            "profile": "Account Executive/ BANDHAN ||Freshers//Back Office",
+            "link": "https://www.letsintern.com/internship/Accountant-internships/7449746203-or-7044658694/Account-Executive-BANDHAN-Freshers-Back-Office/123802",
+            "stipend": "Expenses Covered",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
       },
-      "20000287": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
+      "20000030": {
+            "company": "7449746203 or 7044658694",
+            "profile": "IN-HOUSE || FRESHER || BRANCH BANKING // AXIS BANK",
+            "link": "https://www.letsintern.com/internship/Accountant-internships/7449746203-or-7044658694/IN-HOUSE-FRESHER-BRANCH-BANKING-AXIS-BANK/123800",
+            "stipend": "Expenses Covered",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
       },
-      "20000288": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
+      "20000031": {
+            "company": "SQM Technologies",
+            "profile": "FPGA SOC - Design Engineer",
+            "link": "https://www.letsintern.com/internship/Electronics-Semiconductor-Engineer-internships/SQM-Technologies/FPGA-SOC-Design-Engineer/123740",
+            "stipend": "Rs. 4000-8000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/719279472.jpg"
       },
-      "20000289": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
+      "20000032": {
+            "company": "Legacy Global Wealth",
+            "profile": "Business Development Intern",
+            "link": "https://www.letsintern.com/internship/Finance-Professional-internships/Legacy-Global-Wealth/Business-Development-Intern/123603",
+            "stipend": "Rs. 8000-10000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000033": {
+            "company": "NNEELL INVEST",
+            "profile": "Investment and trading",
+            "link": "https://www.letsintern.com/internship/Financial-Analyst-internships/NNEELL-INVEST/Investment-and-trading/123345",
             "stipend": "Rs. 1000-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/261736967.png"
       },
-      "20000290": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000291": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
+      "20000034": {
+            "company": "Drona Automations",
+            "profile": "Design Inter",
+            "link": "https://www.letsintern.com/internship/Manufacturing-Engineer-internships/Drona-Automations/Design-Inter/123753",
             "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/604751620.jpg"
       },
-      "20000292": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Marketing-Professional-internships/International-Centre-for-Culture-and-Education/Youth-Ambassador/122530",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
+      "20000035": {
+            "company": "Kymik Industries",
+            "profile": "Technical Sales Executive",
+            "link": "https://www.letsintern.com/internship/Sales-Engineer-internships/Kymik-Industries/Technical-Sales-Executive/123750",
+            "stipend": "Rs. 10000-15000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/701870713.png"
       },
-      "20000293": {
-            "company": "Student developer at Biztime EBS",
-            "profile": "Biztime IT Solutions Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Rs. 2000-8000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
-      },
-      "20000294": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000295": {
-            "company": "Youth Ambassador",
-            "profile": "International Centre for Culture and Education",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Rs. 2500-5000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/81913.jpg"
-      },
-      "20000296": {
-            "company": "Affiliate internship program",
-            "profile": "The customisation point",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
+      "20000036": {
+            "company": "The customisation point",
+            "profile": "Affiliate internship program",
+            "link": "https://www.letsintern.com/internship/Digital-Marketing-Manager-internships/The-customisation-point/Affiliate-internship-program/121767",
             "stipend": "Rs. 1000-20000",
             "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
       },
-      "20000297": {
-            "company": "Paid Content Writer",
-            "profile": "Dropzone",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
+      "20000037": {
+            "company": "The Articulate Writer",
+            "profile": "Sales Intern",
+            "link": "https://www.letsintern.com/internship/Sales-Engineer-internships/The-Articulate-Writer/Sales-Intern/119391",
+            "stipend": "Rs. 1000-20000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/285395480.jpg"
+      },
+      "20000038": {
+            "company": "D and A Financial Services Pvt. Ltd",
+            "profile": "Research Officer",
+            "link": "https://www.letsintern.com/internship/Business-Analyst-internships/D-and-A-Financial-Services-Pvt-Ltd/Research-Officer/123390",
+            "stipend": "Rs. 3000-8000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000039": {
+            "company": "PINAKA INNOVATION PRIVATE LTD",
+            "profile": "Field Sales Executives",
+            "link": "https://www.letsintern.com/internship/Sales-Engineer-internships/PINAKA-INNOVATION-PRIVATE-LTD/Field-Sales-Executives/123953",
+            "stipend": "Rs. 8500-10000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000040": {
+            "company": "Hireandbuild",
+            "profile": "Site engineer",
+            "link": "https://www.letsintern.com/internship/Civil-Engineer-internships/Hireandbuild/Site-engineer/123433",
+            "stipend": "Unpaid",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/651694501.png"
+      },
+      "20000041": {
+            "company": "My Happy Celebrations",
+            "profile": "Business Development Intern",
+            "link": "https://www.letsintern.com/internship/Business-Development-Executive-internships/My-Happy-Celebrations/Business-Development-Intern/123347",
+            "stipend": "Expenses Covered",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/751257496.png"
+      },
+      "20000042": {
+            "company": "FITA",
+            "profile": "AWS Internship",
+            "link": "https://www.letsintern.com/internship/Education-Teacher-internships/FITA/AWS-Internship/120215",
+            "stipend": "Rs. 5000-10000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/495573156.png"
+      },
+      "20000043": {
+            "company": "Saijith Digital Marketing",
+            "profile": "Digital Marketing Internship",
+            "link": "https://www.letsintern.com/internship/Digital-Marketing-Professional-internships/Saijith-Digital-Marketing/Digital-Marketing-Internship/122968",
+            "stipend": "Rs. 1000-8000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/818245398.JPG"
+      },
+      "20000044": {
+            "company": "Ledger 360",
+            "profile": "CA ARTICESHIP",
+            "link": "https://www.letsintern.com/internship/Account-Executive-internships/Ledger-360/CA-ARTICESHIP/122772",
+            "stipend": "Rs. 4000-5000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/173704847.jpg"
+      },
+      "20000045": {
+            "company": "GPTDC Institute of Hotel Management",
+            "profile": "Hotel job, Hotel Mangement job, Kolkata",
+            "link": "https://www.letsintern.com/internship/Customer-Service-Representative-internships/GPTDC-Institute-of-Hotel-Management/Hotel-job-Hotel-Mangement-job-Kolkata/123652",
+            "stipend": "Rs. 10000-14000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000046": {
+            "company": "9433996924",
+            "profile": "AXIS BANK [Freshers] // SEGMENT OF BACK OFFICE",
+            "link": "https://www.letsintern.com/internship/Account-Executive-internships/9433996924/AXIS-BANK-Freshers-SEGMENT-OF-BACK-OFFICE/123554",
             "stipend": "Expenses Covered",
             "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
       },
-      "20000298": {
-            "company": "Web Development Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
+      "20000047": {
+            "company": "VIVIR EXPORTS PRIVATE LIMITED",
+            "profile": "Business Development Exec / Asst. Sales & Purchase",
+            "link": "https://www.letsintern.com/internship/Business-Development-Executive-internships/VIVIR-EXPORTS-PRIVATE-LIMITED/Business-Development-Exec-Asst-Sales-Purchase/123036",
+            "stipend": "Rs. 2000-5000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/28524241.png"
+      },
+      "20000048": {
+            "company": "Soulflower",
+            "profile": "Influencer Marketing Specialist",
+            "link": "https://www.letsintern.com/internship/Online-Marketing-Execuitive-internships/Soulflower/Influencer-Marketing-Specialist/123297",
+            "stipend": "Rs. 12000-15000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/19945_20130502122606.jpg"
+      },
+      "20000049": {
+            "company": "Be After WAy",
+            "profile": "Business Development (Sales)",
+            "link": "https://www.letsintern.com/internship/Marketing-Assistant-internships/Be-After-WAy/Business-Development-Sales-/123497",
             "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/384122834.jpg"
       },
-      "20000299": {
-            "company": "Mobile App Development",
-            "profile": "Serv",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Rs. 1000-1000",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
+      "20000050": {
+            "company": "Trucking On Road",
+            "profile": "Content  writer",
+            "link": "https://www.letsintern.com/internship/Writer-internships/Trucking-On-Road/Content-writer/123046",
+            "stipend": "Rs. 5000-6000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/700635734.png"
       },
-      "20000300": {
-            "company": "Data Science(ML/NLP)  Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
+      "20000051": {
+            "company": "Masaya Daily",
+            "profile": "Internship",
+            "link": "https://www.letsintern.com/internship/Operations-Manager-internships/Masaya-Daily/Internship/120110",
+            "stipend": "Rs. 5000-10000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/116100119.jpg"
       },
-      "20000301": {
-            "company": "Python Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
+      "20000052": {
+            "company": "Altius Investech Pvt Ltd",
+            "profile": "Investment Analyst",
+            "link": "https://www.letsintern.com/internship/Financial-Analyst-internships/Altius-Investech-Pvt-Ltd/Investment-Analyst/122237",
+            "stipend": "Rs. 10000-20000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
       },
-      "20000302": {
-            "company": "Java Internship",
-            "profile": "TechCiti Technologies Pvt.Ltd.",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
-            "stipend": "Unpaid",
-            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
+      "20000053": {
+            "company": "vyrazu labs",
+            "profile": "SEO intern",
+            "link": "https://www.letsintern.com/internship/SEO-Specialist-internships/vyrazu-labs/SEO-intern/122516",
+            "stipend": "Expenses Covered",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/524489847.jpg"
       },
-      "20000303": {
-            "company": "Content Writer",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
+      "20000054": {
+            "company": "2COMS Consulting pvt ltd",
+            "profile": "Junior PHP Developer",
+            "link": "https://www.letsintern.com/internship/Full-Stack-Developer-PHP-internships/2COMS-Consulting-pvt-ltd/Junior-PHP-Developer/123253",
+            "stipend": "Rs. 10000-15000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/485572826.png"
+      },
+      "20000055": {
+            "company": "puniya consultants",
+            "profile": "Social Media Marketing& sales",
+            "link": "https://www.letsintern.com/internship/Social-Media-Specialist-internships/puniya-consultants/Social-Media-Marketing-sales/123307",
+            "stipend": "Rs. 1000-3000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/748364623.jpg"
+      },
+      "20000056": {
+            "company": "Manya Education Pvt. Ltd.",
+            "profile": "Intern- Marketing",
+            "link": "https://www.letsintern.com/internship/Marketing-Professional-internships/Manya-Education-Pvt-Ltd-/Intern-Marketing/123198",
+            "stipend": "Rs. 5000-6000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000057": {
+            "company": "Naresh Safe Factory",
+            "profile": "SEO Executive",
+            "link": "https://www.letsintern.com/internship/SEO-Specialist-internships/Naresh-Safe-Factory/SEO-Executive/123121",
+            "stipend": "Rs. 3000-4500",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/668377051.png"
+      },
+      "20000058": {
+            "company": "Amicone",
+            "profile": "Digital marketing",
+            "link": "https://www.letsintern.com/internship/Digital-Marketing-Professional-internships/Amicone/Digital-marketing/122548",
+            "stipend": "Rs. 3000-5000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/82232471.png"
+      },
+      "20000059": {
+            "company": "Upcoming Start Up",
+            "profile": "Solutions for Engineering Questions (WFH)",
+            "link": "https://www.letsintern.com/internship/Electrical-Engineer-internships/Upcoming-Start-Up/Solutions-for-Engineering-Questions-WFH-/122960",
+            "stipend": "Rs. 1000-25000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000060": {
+            "company": "Photo retouch house",
+            "profile": "Professional Graphic Designer",
+            "link": "https://www.letsintern.com/internship/Graphic-Designer-internships/Photo-retouch-house/Professional-Graphic-Designer/122451",
+            "stipend": "Rs. 1000-20000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/7059363.jpg"
+      },
+      "20000061": {
+            "company": "SponsorEazy",
+            "profile": "Content Development",
+            "link": "https://www.letsintern.com/internship/Content-Manager-internships/SponsorEazy/Content-Development/119453",
             "stipend": "Rs. 1000-5000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/152838762.jpeg"
+      },
+      "20000062": {
+            "company": "Advertocean",
+            "profile": "business development and marketing",
+            "link": "https://www.letsintern.com/internship/Business-Development-Executive-internships/Advertocean/business-development-and-marketing/123628",
+            "stipend": "Unpaid",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/696946595.png"
+      },
+      "20000063": {
+            "company": "Authority Movers",
+            "profile": "Copywriter",
+            "link": "https://www.letsintern.com/internship/Content-Manager-internships/Authority-Movers/Copywriter/120707",
+            "stipend": "Rs. 4000-4996",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/68981116.png"
+      },
+      "20000064": {
+            "company": "Variety Innovation Venture Pvt. Ltd.",
+            "profile": "Full Stack Development Intern",
+            "link": "https://www.letsintern.com/internship/Full-Stack-Developer-Java-MySQL-Linux-internships/Variety-Innovation-Venture-Pvt-Ltd-/Full-Stack-Development-Intern/123563",
+            "stipend": "Rs. 5000-10000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/220363789.png"
+      },
+      "20000065": {
+            "company": "Variety Innovation Venture Pvt. Ltd.",
+            "profile": "Digital Marketing Intern",
+            "link": "https://www.letsintern.com/internship/Digital-Marketing-Professional-internships/Variety-Innovation-Venture-Pvt-Ltd-/Digital-Marketing-Intern/123624",
+            "stipend": "Rs. 5000-10000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/220363789.png"
+      },
+      "20000066": {
+            "company": "Dropzone",
+            "profile": "Paid Content Writer",
+            "link": "https://www.letsintern.com/internship/Writer-internships/Dropzone/Paid-Content-Writer/123567",
+            "stipend": "Expenses Covered",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000067": {
+            "company": "Uolo EdTech Private Ltd.",
+            "profile": "Business Development Executive",
+            "link": "https://www.letsintern.com/internship/Business-Development-Executive-internships/Uolo-EdTech-Private-Ltd-/Business-Development-Executive/123512",
+            "stipend": "Rs. 10000-10000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/899587274.jpg"
+      },
+      "20000068": {
+            "company": "Aspiring Minds",
+            "profile": "Client Acquisition Executive",
+            "link": "https://www.letsintern.com/internship/Business-Acquisition-Executive-internships/Aspiring-Minds/Client-Acquisition-Executive/121298",
+            "stipend": "Rs. 12500-12500",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000069": {
+            "company": "Verzeo",
+            "profile": "Business Development",
+            "link": "https://www.letsintern.com/internship/Business-Development-Executive-internships/Verzeo/Business-Development/123946",
+            "stipend": "Rs. 10000-15000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/876536400.jpg"
+      },
+      "20000070": {
+            "company": "Biztime IT Solutions Pvt Ltd",
+            "profile": "Student developer at Biztime EBS",
+            "link": "https://www.letsintern.com/internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
+            "stipend": "Rs. 2000-8000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/143158844-258655.png"
+      },
+      "20000071": {
+            "company": "COLLEGEDUNIA WEB PVT LTD",
+            "profile": "Campus Ambassador",
+            "link": "https://www.letsintern.com/internship/Marketing-Assistant-internships/COLLEGEDUNIA-WEB-PVT-LTD/Campus-Ambassador/122805",
+            "stipend": "Rs. 1000-1000",
             "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
       },
-      "20000304": {
-            "company": "AI and ML Engineer",
-            "profile": "Cognilysis Opc Pvt Ltd",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
+      "20000072": {
+            "company": "TechCiti Technologies Pvt.Ltd.",
+            "profile": "Java Internship",
+            "link": "https://www.letsintern.com/internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Java-Internship/121846",
+            "stipend": "Unpaid",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
+      },
+      "20000073": {
+            "company": "TechCiti Technologies Pvt.Ltd.",
+            "profile": "Python Internship",
+            "link": "https://www.letsintern.com/internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Python-Internship/121847",
+            "stipend": "Unpaid",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
+      },
+      "20000074": {
+            "company": "TechCiti Technologies Pvt.Ltd.",
+            "profile": "Web Development Internship",
+            "link": "https://www.letsintern.com/internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Web-Development-Internship/121845",
+            "stipend": "Unpaid",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
+      },
+      "20000075": {
+            "company": "Cognilysis Opc Pvt Ltd",
+            "profile": "AI and ML Engineer",
+            "link": "https://www.letsintern.com/internship/Computer-and-Information-Systems-professional-internships/Cognilysis-Opc-Pvt-Ltd/AI-and-ML-Engineer/123672",
             "stipend": "Unpaid",
             "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/634700579.png"
       },
-      "20000305": {
-            "company": "Campus Ambassador",
-            "profile": "COLLEGEDUNIA WEB PVT LTD",
-            "link": "https://www.letsintern.com//internship/Software-Developer-internships/Biztime-IT-Solutions-Pvt-Ltd/Student-developer-at-Biztime-EBS/123544",
+      "20000076": {
+            "company": "Ostello India Private Limited",
+            "profile": "Sales and Marketing",
+            "link": "https://www.letsintern.com/internship/Sales-Professional-internships/Ostello-India-Private-Limited/Sales-and-Marketing/123480",
+            "stipend": "Rs. 1000-1500",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/888400735.jpeg"
+      },
+      "20000077": {
+            "company": "TechCiti Technologies Pvt.Ltd.",
+            "profile": "Data Science(ML/NLP)  Internship",
+            "link": "https://www.letsintern.com/internship/Software-Developer-internships/TechCiti-Technologies-Pvt-Ltd-/Data-Science-ML-NLP-Internship/121843",
+            "stipend": "Unpaid",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/257683239.jpg"
+      },
+      "20000078": {
+            "company": "Serv",
+            "profile": "Mobile App Development",
+            "link": "https://www.letsintern.com/internship/Mobile-App-Developer-internships/Serv/Mobile-App-Development/116254",
             "stipend": "Rs. 1000-1000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/301080715.png"
+      },
+      "20000079": {
+            "company": "COLLEGEDUNIA WEB PVT LTD",
+            "profile": "Content Writer",
+            "link": "https://www.letsintern.com/internship/Creative-writer-internships/COLLEGEDUNIA-WEB-PVT-LTD/Content-Writer/123388",
+            "stipend": "Rs. 1000-5000",
             "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/106869267.png"
+      },
+      "20000080": {
+            "company": "SkillSphere Education",
+            "profile": "Associate Freelance Trainers",
+            "link": "https://www.letsintern.com/internship/Teacher-internships/SkillSphere-Education/Associate-Freelance-Trainers/120311",
+            "stipend": "Rs. 1300-7500",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/875191399.jpg"
+      },
+      "20000081": {
+            "company": "What If? ",
+            "profile": "UI/UX Designer (WFH/Remote)",
+            "link": "https://www.letsintern.com/internship/Graphic-Designer-internships/What-If-/UI-UX-Designer-WFH-Remote-/123647",
+            "stipend": "Rs. 13000-15000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/649103096.jpg"
+      },
+      "20000082": {
+            "company": "Paris Panini",
+            "profile": "Social Media Marketing",
+            "link": "https://www.letsintern.com/internship/Social-Media-Specialist-internships/Paris-Panini/Social-Media-Marketing/122988",
+            "stipend": "Rs. 3000-3000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000083": {
+            "company": "Training in Chandigarh",
+            "profile": "Digital Marketing Training in Chandigarh",
+            "link": "https://www.letsintern.com/internship/Digital-Marketing-Professional-internships/Training-in-Chandigarh/Digital-Marketing-Training-in-Chandigarh/121833",
+            "stipend": "Rs. 1000-10000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000084": {
+            "company": "online pills store",
+            "profile": "Content writer",
+            "link": "https://www.letsintern.com/internship/Writer-internships/online-pills-store/Content-writer/123443",
+            "stipend": "Expenses Covered",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/148835402.png"
+      },
+      "20000085": {
+            "company": "Essay King",
+            "profile": "Internship at Essay King Company",
+            "link": "https://www.letsintern.com/internship/Writer-internships/Essay-King/Internship-at-Essay-King-Company/121931",
+            "stipend": "Rs. 10000-15000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000086": {
+            "company": "Prestige Finsbury Park",
+            "profile": "Prestige Finsbury Park Launch Date",
+            "link": "https://www.letsintern.com/internship/Real-Estate-Professional-internships/Prestige-Finsbury-Park/Prestige-Finsbury-Park-Launch-Date/123281",
+            "stipend": "Unpaid",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/61810654.jpg"
+      },
+      "20000087": {
+            "company": "9433996924",
+            "profile": "Bandhan Bank//Branch Banking Executive || Freshers",
+            "link": "https://www.letsintern.com/internship/Account-Executive-internships/9433996924/Bandhan-Bank-Branch-Banking-Executive-Freshers/123556",
+            "stipend": "Expenses Covered",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000088": {
+            "company": "D and A Financial Services Pvt. Ltd",
+            "profile": "Business Development",
+            "link": "https://www.letsintern.com/internship/Business-Development-Executive-internships/D-and-A-Financial-Services-Pvt-Ltd/Business-Development/123391",
+            "stipend": "Rs. 10000-25000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000089": {
+            "company": "HEC Hospitality",
+            "profile": "Field Sales Representative",
+            "link": "https://www.letsintern.com/internship/Sales-Professional-internships/HEC-Hospitality/Field-Sales-Representative/123487",
+            "stipend": "Rs. 15000-20000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/774717964.png"
+      },
+      "20000090": {
+            "company": "Wascorp Digital",
+            "profile": "Fullstack Javascript Web Developer",
+            "link": "https://www.letsintern.com/internship/Web-Developer-internships/Wascorp-Digital/Fullstack-Javascript-Web-Developer/123548",
+            "stipend": "Rs. 8000-10500",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/167953323.jpg"
+      },
+      "20000091": {
+            "company": "Flyhorse Capital Services",
+            "profile": "Business Development Executive",
+            "link": "https://www.letsintern.com/internship/Financial-Services-Manager-internships/Flyhorse-Capital-Services/Business-Development-Executive/123601",
+            "stipend": "Rs. 5000-25000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000092": {
+            "company": "Anaad Consultants LLP",
+            "profile": "Campus Ambassador",
+            "link": "https://www.letsintern.com/internship/Social-Media-Specialist-internships/Anaad-Consultants-LLP/Campus-Ambassador/123919",
+            "stipend": "Rs. 1000-5000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/337605407.png"
+      },
+      "20000093": {
+            "company": "GRASSROOT",
+            "profile": "trainee",
+            "link": "https://www.letsintern.com/internship/Event-Planner-internships/GRASSROOT/trainee/123597",
+            "stipend": "Rs. 4000-5000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/148216183.jpg"
+      },
+      "20000094": {
+            "company": "apkinstallation.com",
+            "profile": "Trainee",
+            "link": "https://www.letsintern.com/internship/Administrative-Law-Judge-internships/apkinstallation-com/Trainee/123679",
+            "stipend": "Rs. 10000-15000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
+      },
+      "20000095": {
+            "company": "Prestige Primrose Hills",
+            "profile": "Prestige Primrose Hills",
+            "link": "https://www.letsintern.com/internship/Real-Estate-Sales-Agent-internships/Prestige-Primrose-Hills/Prestige-Primrose-Hills/121671",
+            "stipend": "Rs. 1000-100000",
+            "img": "https://s3-ap-southeast-1.amazonaws.com/letsintern.com/images-employer/empdefault.jpg"
       }
 }
