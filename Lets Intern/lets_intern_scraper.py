@@ -8,7 +8,7 @@ class LetsInternScraper(scrapy.Spider):
     name = 'lets_intern_scraper'
 
     def start_requests(self):
-        urls = ['pocket-money-internships','gurgaon-internships','delhi-internships','mumbai-internships','pune-internships','banglore-internships','chennai-internships','hyderabad-internships','kolkata-internships','','it-internships','mba-internships','engineering-internships','finance-internships','summer-internships','full-time-internships','virtual-internships','fresher-job-internships','part-time-internships','brand-ambassador-internships']
+        urls = ['pocket-money-internships','customer-service-internships','gurgaon-internships','delhi-internships','mumbai-internships','pune-internships','bangalore-internships','chennai-internships','hyderabad-internships','kolkata-internships','','it-internships','mba-internships','engineering-internships','marketing-internships','design-internships','journalism-internships','education-teaching-internships','content-media-internships','human-resources-internships','finance-internships','summer-internships','full-time-internships','online-virtual-internships','fresher-job-internships','part-time-internships','brand-ambassador-internships']
         for url in urls:
             yield scrapy.Request(url='https://www.letsintern.com/internships/'+url, callback=self.parse1)
 
@@ -39,7 +39,7 @@ class LetsInternScraper(scrapy.Spider):
 
 
 dick = {}
-id = 20000096
+id = 20000001
 
 
 process = CrawlerProcess()
@@ -51,6 +51,6 @@ process.start()
 print(id)
 
 
-fout = open('letsintern.json', 'w')
+fout = open('letsintern.json', 'a')
 json.dump(dick, fout, indent=6)
 fout.close()
