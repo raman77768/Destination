@@ -36,9 +36,10 @@ for i in json_list:
             with open(i) as json_file:
                 data = json.load(json_file)
             final_data.update(data)
-        except:pass
+        except:print(i)
 
-final_data = check_duplicates(final_data)
+#final_data = check_duplicates(final_data)
+
 for i in final_data:
     final_data[i]['rating'] = getrating(final_data[i]['company'])
 
