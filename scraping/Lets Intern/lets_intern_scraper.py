@@ -52,5 +52,5 @@ print(id)
 
 
 fout = open('letsintern.json', 'a')
-json.dump(dick, fout, indent=6)
+json.dump(dick, fout, indent=4)
 fout.close()
